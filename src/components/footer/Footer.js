@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <div>
       <footer>
-        Made with ❤️ By{" "}
+        Made with ❤️ By
         <a
           href="https://github.com/SAMBIT20"
           className="footer-link"
