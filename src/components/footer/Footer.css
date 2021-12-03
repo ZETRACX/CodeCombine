@@ -1,0 +1,15 @@
+footer {
+  height: 5vh;
+  background-color: #07002b;
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-top: 10px;
+}
+.footer-link {
+  text-decoration: none;
+  margin-left: 5px;
+  padding-top: 4px;
+  color: rgb(43, 183, 226);
+}
