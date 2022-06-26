@@ -4,14 +4,14 @@ export const Footer = () => {
   return (
     <div>
       <footer>
-        Made with ❤️ By
+        POWERED BY
         <a
-          href="https://github.com/SAMBIT20"
+          href="https://sk-books.vercel.app/"
           className="footer-link"
           target="_blank"
           rel="noreferrer"
         >
-          Sambit
+          Books
         </a>
       </footer>
     </div>
